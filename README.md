@@ -39,3 +39,7 @@ Once the repository is cloned and virtual environment set up, go to the director
     python3 manage.py runserver
     
  Your server is set up with all the APIs active.  
+ 
+ 
+ 
+ 
